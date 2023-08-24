@@ -1,0 +1,30 @@
+.titulo h1{
+    font-family: 'titulo';
+    font-size: 50px;
+    text-align: center;
+    padding: 40px 0px 40px 0px;
+}
+.mapa{
+    text-align: center;
+    background-color: black;
+    border: solid 2px $principal;
+    padding: 20px 0px 20px 0px;
+    margin: 0px 350px 0px 350px;
+    border-radius: 20px;
+}
+.mapa iframe{
+    border-radius: 20px;
+}
+.info{
+    text-align: center;
+    padding: 30px 0px 30px 0px;
+}
+.info img{
+    width: 50px;
+    height: 50px;
+}
+.info p{
+    font-size: 30px;
+    font-family: 'texto';
+    padding-top: 30px;
+}
